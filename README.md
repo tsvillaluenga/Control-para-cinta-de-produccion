@@ -20,7 +20,7 @@ Para la programación de este utilizaremos la plataforma de Arduino (programa y 
 - Puente H (para monitorizar al motor)
 - Leds rojo y verde
 - Resistencias
-- Sensor de proximidad
+- Sensor de proximidad (ultrasonido)
 - Cableado
 
 
